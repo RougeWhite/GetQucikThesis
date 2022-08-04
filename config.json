@@ -1,0 +1,26 @@
+{
+  "url": "https://scholar.google.com/scholar?q=",
+  "proxies": "http://127.0.0.1:4780",
+  "cookie": "AEC=AakniGO7W1A933pO4962IZpm2F1ng9ZWY9QV_m-S7Y5b89lpyIn_nHguN_0; 1P_JAR=2022-08-03-11; GSP=A=nsyI-w:CPTS=1659575221:LM=1659575221:S=R7HPrEx_Tm_uCWcs; NID=511=qCfQy8uDXzio_jln8WpCGluvrLCZBySEde_onNgCfqmuTzXVMU5n1i6wVz7gX8-iRp_UivJDC3bogb-ZmLLw7RaSfu4c95mQA-PKjSvwpT7Dcx15NYA2tXiC9Xq3kfLrtvjKSHcIAF55BmGUXTIiD4b0G9h_AjSuUkgGAKLNOljtbAkqgQR4NSJAGVR6W1NLBG0LPfWtZg",
+  "user_agent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
+
+  "zotero_path": "E:\\zotero\\storage",
+  "output_path":"E:\\OneDrive\\论文\\PDFfromOther" ,
+  "txt_path": "F:\\Python\\GetQucikThesis\\thesis.txt",
+
+  "userconfig": "UserConfig.ini",
+  "log_name": "pdf.log",
+  "notfind_name": "notfindpdf.log",
+  "toc_name": "Toc_Config.ini",
+  "default_setting_filename":"config.json",
+
+  "web_click_x": 1585,
+  "web_click_y": 40,
+
+  "wait_web": 2,
+  "wait_pdf": 7,
+  "windows_width": 365,
+  "windows_height":400,
+  "postion_x": 777,
+  "postion_y": 410
+}
